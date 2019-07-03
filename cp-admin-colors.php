@@ -47,7 +47,7 @@ class CP_Color_Scheme {
 		add_action( 'admin_init' , array( $this, 'auto_default_color_scheme_init' ) );
 
 		/* If default setting is on, make default */
-		if ( '1' === get_option('auto_default_color_scheme') ) {
+		if ( get_option('auto_default_color_scheme') === '1' ) {
 			add_action( 'user_register' , array( $this, 'set_default_admin_color' ) );
 		}
 	}
