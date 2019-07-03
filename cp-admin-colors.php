@@ -3,7 +3,7 @@
  * Plugin Name: CP Admin Colors
  * Plugin URI: 
  * Description: AAdmin color schemes based on the ClassicPress brand
- * Version: 0.3.1
+ * Version: 0.3.2
  * Author: Klein
  * Author URI: https://forums.classicpress.net/u/klein
  * Text Domain: admin_schemes
