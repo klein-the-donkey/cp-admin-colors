@@ -21,6 +21,9 @@ CP Admin Colors will change the default admin color scheme for new users to Clas
 
 ## Changelog 
 
+0.3.2
+* Took out Yoda
+
 0.3.1
 * Added settings to readme and fixed settings bug.
 
