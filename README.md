@@ -22,7 +22,8 @@ CP Admin Colors will change the default admin color scheme for new users to Clas
 ## Changelog 
 
 0.4.0
-* Fixed ClassicPress Purple highlight problem and added ClassicPress Bright
+* Fixed ClassicPress Purple highlight problem 
+* Added ClassicPress Bright
 
 0.3.2
 * Took out Yoda
@@ -31,7 +32,7 @@ CP Admin Colors will change the default admin color scheme for new users to Clas
 * Added settings to readme and fixed settings bug.
 
 0.3.0
-* Add setting for default.
+* Added setting for default.
 
 0.2.1
 * Minor bugfix.
