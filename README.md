@@ -11,6 +11,8 @@ ClassicPress style admin color schemes for your ClassicPress site.
 
 Color schemes in this pack are based on the ClassicPress Brand Guidelines on https://www.classicpress.net/brand-guidelines/ and realized by Klein.
 
+This plugin is a personal project by Klein with the help of the ClassicPress community. It is NOT an official ClassicPress product.
+
 ## Screenshots 
 
 All screenshots in the screenshot folder by Klein.
@@ -20,6 +22,9 @@ All screenshots in the screenshot folder by Klein.
 CP Admin Colors will change the default admin color scheme for new users to ClassicPress Default; to turn this off go to Settings > Writing and uncheck the checkbox.
 
 ## Changelog 
+
+0.4.2
+* Added a disclaimer line to the readme.
 
 0.4.1
 * Added plugin URL.
