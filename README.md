@@ -19,6 +19,11 @@ CP Admin Colors will change the default admin color scheme for new users to Clas
 
 ## Changelog 
 
+0.5.2
+* Minor color tweaks for accessibility in Superdark.
+* Fixed pluginscreen in Superdark.
+* Fixed other minor color problems in Superdark.
+
 0.5.1
 * Minor color tweaks for readability in Superdark.
 * Deleted screenshots folder.
