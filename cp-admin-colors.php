@@ -3,7 +3,7 @@
  * Plugin Name: CP Admin Colors
  * Plugin URI: https://github.com/klein-the-donkey/cp-admin-colors
  * Description: Admin color schemes based on the ClassicPress brand
- * Version: 0.4.1
+ * Version: 0.5.0
  * Author: Klein
  * Author URI: https://forums.classicpress.net/u/klein
  * Text Domain: admin_schemes
@@ -37,7 +37,7 @@ class CP_Color_Scheme {
 	 *                    Needed for registering colors-fresh dependency.
 	 */
 	private $colors = array(
-		'cp-default', 'cp-contrast', 'cp-purple', 'cp-bright'
+		'cp-default', 'cp-contrast', 'cp-purple', 'cp-bright', 'cp-superdark'
 	);
 
 	public function __construct() {
@@ -83,6 +83,13 @@ class CP_Color_Scheme {
 			'cp-bright', __( 'ClassicPress Bright', 'admin_schemes' ),
 			plugins_url( "cp-bright/colors$suffix.css", __FILE__ ),
 			array( '#3ebba6', '#361946', '#60cd6f', '#057f99' ),
+			array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
+		);
+
+		wp_admin_css_color(
+			'cp-superdark', __( 'ClassicPress Superdark', 'admin_schemes' ),
+			plugins_url( "cp-superdark/colors$suffix.css", __FILE__ ),
+			array( '#040402', '#4e2065', '#006c83', '#242424' ),
 			array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
 		);
 

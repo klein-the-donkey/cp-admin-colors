@@ -7,7 +7,7 @@ ClassicPress style admin color schemes for your ClassicPress site.
 
 ## Description
 
-4 new color schemes for your admin.
+5 new color schemes for your admin.
 
 Color schemes in this pack are based on the ClassicPress Brand Guidelines on https://www.classicpress.net/brand-guidelines/ and realized by Klein.
 
@@ -22,6 +22,9 @@ All screenshots in the screenshot folder by Klein.
 CP Admin Colors will change the default admin color scheme for new users to ClassicPress Default; to turn this off go to Settings > Writing and uncheck the checkbox.
 
 ## Changelog 
+
+0.5.0
+* Added ClassicPress Superdark
 
 0.4.2
 * Added a disclaimer line to the readme.

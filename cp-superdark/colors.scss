@@ -1,0 +1,38 @@
+$text-color: #006c83;
+$base-color: #040402;
+$highlight-color: #4e2065;
+$notification-color: #60cd6f;
+$action-color: #2c2e2e;
+$link-focus: #006c83;
+$menu-submenu-focus-text: $link-focus;
+$body-background: #242424;
+
+body, #wp-content-editor-tools {
+  background: $body-background;
+  color: $text-color;
+}
+
+h1, h2, h3, h4, h5, h6, p, .form-table th {
+  color: $text-color;
+}
+
+#titlediv #title, input[type=checkbox], input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=radio], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea {
+  background: $highlight-color;
+  color: $text-color;
+}
+
+.media-frame-content, .postbox, #screen-meta, .edit-attachment-frame, .media-modal-content .edit-media-header .left.disabled, .edit-attachment-frame .edit-media-header .left.disabled:hover, .edit-attachment-frame .edit-media-header .right.disabled, .edit-attachment-frame .edit-media-header .right.disabled:hover, .wp-filter, #contextual-help-link-wrap, #screen-options-link-wrap, .comment-ays, .feature-filter, .imgedit-group, .popular-tags, .stuffbox, .widgets-holder-wrap, .wp-editor-container, p.popular-tags, table.widefat {
+  background: $base-color;
+  color: $text-color;
+}
+
+#activity-widget #the-comment-list .comment-item, #dashboard_petitions .sub, table.cp_petitions thead, table.cp_petitions tbody tr:nth-child(even), #dashboard_primary .classicpress-news-inline-notice, .alternate,.welcome-panel, .striped>tbody>:nth-child(odd), ul.striped>:nth-child(odd),.menu-item-handle, .widget .widget-top,.widget-inside,.edit-attachment-frame .attachment-info {
+  background: $action-color;
+  color: $text-color;
+}
+
+.widefat td, .widefat th, .widefat ol, .widefat p, .widefat ul, {
+  color: $text-color;
+}
+
+@import "../admin";
