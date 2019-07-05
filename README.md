@@ -13,18 +13,18 @@ Color schemes in this pack are based on the ClassicPress Brand Guidelines on htt
 
 This plugin is a personal project by Klein with the help of the ClassicPress community. It is NOT an official ClassicPress product.
 
-## Screenshots 
-
-All screenshots in the screenshot folder by Klein.
-
 ## Settings
 
 CP Admin Colors will change the default admin color scheme for new users to ClassicPress Default; to turn this off go to Settings > Writing and uncheck the checkbox.
 
 ## Changelog 
 
+0.5.1
+* Minor color tweaks for readability in Superdark.
+* Deleted screenshots folder.
+
 0.5.0
-* Added ClassicPress Superdark
+* Added ClassicPress Superdark.
 
 0.4.2
 * Added a disclaimer line to the readme.

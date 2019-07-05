@@ -89,7 +89,7 @@ class CP_Color_Scheme {
 		wp_admin_css_color(
 			'cp-superdark', __( 'ClassicPress Superdark', 'admin_schemes' ),
 			plugins_url( "cp-superdark/colors$suffix.css", __FILE__ ),
-			array( '#040402', '#4e2065', '#006c83', '#242424' ),
+			array( '#040402', '#2e123c', '#26a2a0', '#242424' ),
 			array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
 		);
 
