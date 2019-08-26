@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5, h6, p, .form-table th {
   color: $text-color;
 }
 
+.about-inline-notice, .notice, div.error, div.updated, #contextual-help-back {
+  background: $highlight-color;
+}
+
 .card, .privacy_requests tbody td, .plugins .active td, .plugins .active th, #titlediv #title, input[type=checkbox], input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=radio], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea {
   background: $highlight-color;
   color: $text-color;
@@ -31,8 +35,50 @@ h1, h2, h3, h4, h5, h6, p, .form-table th {
   color: $text-color;
 }
 
-.importer-title, .ac_match, .subsubsub a.current, .widefat td, .widefat th, .widefat ol, .widefat p, .widefat ul, {
+.wp-full-overlay-footer .devices button.active:before, .importer-title, .ac_match, .subsubsub a.current, .widefat td, .widefat th, .widefat ol, .widefat p, .widefat ul, {
   color: $text-color;
+}
+
+.wp-core-ui .button, .wp-core-ui .button-secondary {
+  border-color: $highlight-color;
+  background-color: $highlight-color;
+  color:#fff;
+}
+
+.wp-core-ui .button-secondary:focus, .wp-core-ui .button-secondary:hover, .wp-core-ui .button.focus, .wp-core-ui .button.hover, .wp-core-ui .button:focus, .wp-core-ui .button:hover {
+  border-color: $action-color;
+  background-color: $action-color;
+  color:#fff;
+}
+
+.wp-core-ui .button-secondary:active, .wp-core-ui .button.active, .wp-core-ui .button.active:hover, .wp-core-ui .button:active {
+  background-color: $action-color;
+}
+
+#customize-outer-theme-controls .accordion-section-title, #customize-theme-controls .accordion-section-title, .customize-section-title, .customize-panel-back, .customize-section-back, #customize-controls .customize-info .accordion-section-title, #customize-theme-controls .control-panel-themes>.accordion-section-title, #customize-theme-controls .control-panel-themes>.accordion-section-title:hover, #plugin-information-tabs, #plugin-information .fyi, #plugin-information-footer {
+  background: $base-color;
+  color: $text-color;
+}
+
+.wp-full-overlay-sidebar, .wp-full-overlay-sidebar .wp-full-overlay-header, #plugin-information, #plugin-information-content, #plugin-information-tabs a.current {
+  background: $body-background;
+  color: $text-color;	
+}
+
+.expanded .wp-full-overlay-footer, #customize-controls .customize-info .customize-panel-description, #customize-controls .customize-info .customize-section-description, #customize-controls .no-widget-areas-rendered-notice, #customize-outer-theme-controls .customize-info .customize-section-description {
+  background: $body-background;
+  color: $text-color;	
+}
+
+.wp-full-overlay-footer .devices {
+	background: $body-background;
+	box-shadow: -20px 0 10px -5px $body-background;
+}
+
+.customize-controls-close {
+  background: $body-background;
+  color: $text-color;	
+  border-top: 4px solid $text-color;	
 }
 
 @import "../admin";
