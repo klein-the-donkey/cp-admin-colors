@@ -3,7 +3,7 @@ body, #wp-content-editor-tools {
   color: #3ecca6;
 }
 
-h1, h2, h3, h4, h5, h6, p, .form-table th {
+h1, h2, h3, h4, h5, h6, p, .form-table th, .nav-tab-active, .nav-tab-active:focus, .nav-tab-active:focus:active, .nav-tab-active:hover {
   color: #3ecca6;
 }
 
@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6, p, .form-table th {
   background: #2e123c;
 }
 
-.card, .privacy_requests tbody td, .plugins .active td, .plugins .active th, #titlediv #title, input[type=checkbox], input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=radio], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea {
+#the-comment-list .unapproved td, #the-comment-list .unapproved th, .card, .privacy_requests tbody td, .plugins .active td, .plugins .active th, #titlediv #title, input[type=checkbox], input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=radio], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea {
   background: #2e123c;
   color: #3ecca6;
 }

@@ -1,5 +1,5 @@
 # CP Admin Colors
-Tested up to: ClassicPress 1.0.1
+Tested up to: ClassicPress 1.1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,6 +18,10 @@ This plugin is a personal project by Klein with the help of the ClassicPress com
 CP Admin Colors will change the default admin color scheme for new users to ClassicPress Default; to turn this off go to Settings > Writing and uncheck the checkbox.
 
 ## Changelog 
+
+0.5.4
+* Testing and minor patching for ClassicPress v1.1.0.
+* Fixed unapproved comments in Superdark.
 
 0.5.3
 * Fixed customizer in Superdark.
