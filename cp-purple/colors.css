@@ -15,14 +15,14 @@ a {
   color: #057f99;
 }
 a:hover, a:active, a:focus {
-  color: #07a8ca;
+  color: #60cd6f;
 }
 
 #media-upload a.del-link:hover,
 div.dashboard-widget-submit input:hover,
 .subsubsub a:hover,
 .subsubsub a.current:hover {
-  color: #07a8ca;
+  color: #60cd6f;
 }
 
 /* Forms */
@@ -36,7 +36,7 @@ input[type=radio]:checked:before {
 
 .wp-core-ui input[type=reset]:hover,
 .wp-core-ui input[type=reset]:active {
-  color: #07a8ca;
+  color: #60cd6f;
 }
 
 /* Core UI */
@@ -184,7 +184,7 @@ input[type=radio]:checked:before {
 #adminmenu a.wp-has-current-submenu:focus + .wp-submenu a:hover,
 #adminmenu .wp-has-current-submenu.opensub .wp-submenu a:focus,
 #adminmenu .wp-has-current-submenu.opensub .wp-submenu a:hover {
-  color: #89288f;
+  color: #60cd6f;
 }
 
 /* Admin Menu: current */
@@ -198,7 +198,7 @@ input[type=radio]:checked:before {
 #adminmenu a.wp-has-current-submenu:focus + .wp-submenu li.current a:focus,
 #adminmenu .wp-has-current-submenu.opensub .wp-submenu li.current a:hover,
 #adminmenu .wp-has-current-submenu.opensub .wp-submenu li.current a:focus {
-  color: #89288f;
+  color: #60cd6f;
 }
 
 ul#adminmenu a.wp-has-current-submenu:after,
@@ -282,14 +282,14 @@ ul#adminmenu > li.current > a.current:after {
 #wpadminbar.nojq .quicklinks .ab-top-menu > li > .ab-item:focus,
 #wpadminbar.nojs .ab-top-menu > li.menupop:hover > .ab-item,
 #wpadminbar .ab-top-menu > li.menupop.hover > .ab-item {
-  color: #89288f;
+  color: #60cd6f;
   background: #22102c;
 }
 
 #wpadminbar:not(.mobile) > #wp-toolbar li:hover span.ab-label,
 #wpadminbar:not(.mobile) > #wp-toolbar li.hover span.ab-label,
 #wpadminbar:not(.mobile) > #wp-toolbar a:focus span.ab-label {
-  color: #89288f;
+  color: #60cd6f;
 }
 
 #wpadminbar:not(.mobile) li:hover .ab-icon:before,
@@ -338,7 +338,7 @@ ul#adminmenu > li.current > a.current:after {
 #wpadminbar li.hover .ab-item:before,
 #wpadminbar li:hover #adminbarsearch:before,
 #wpadminbar li #adminbarsearch.adminbar-focused:before {
-  color: #89288f;
+  color: #60cd6f;
 }
 
 #wpadminbar .quicklinks li a:hover .blavatar,
@@ -347,7 +347,7 @@ ul#adminmenu > li.current > a.current:after {
 #wpadminbar .menupop .menupop > .ab-item:hover:before,
 #wpadminbar.mobile .quicklinks .ab-icon:before,
 #wpadminbar.mobile .quicklinks .ab-item:before {
-  color: #89288f;
+  color: #60cd6f;
 }
 
 #wpadminbar.mobile .quicklinks .hover .ab-icon:before,
@@ -396,7 +396,7 @@ ul#adminmenu > li.current > a.current:after {
 }
 
 #wpadminbar #wp-admin-bar-user-info a:hover .display-name {
-  color: #89288f;
+  color: #60cd6f;
 }
 
 #wpadminbar #wp-admin-bar-user-info .username {
