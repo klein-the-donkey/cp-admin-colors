@@ -19,6 +19,10 @@ CP Admin Colors will change the default admin color scheme for new users to Clas
 
 ## Changelog 
 
+0.6.0
+* First official Github release (Warning: While the plugin is stable, we can't guarentee that Superdark covers everything it needs to cover yet. If you find something that isn't darkened properly, please make an issue on [github](https://github.com/klein-the-donkey/cp-admin-colors).)
+* Merged pull request Fix docs #1.
+
 0.5.4
 * Testing and minor patching for ClassicPress v1.1.0.
 * Fixed unapproved comments in Superdark.
