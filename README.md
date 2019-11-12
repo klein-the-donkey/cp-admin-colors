@@ -33,7 +33,7 @@ To turn this off go to Settings > Writing and uncheck the checkbox.
 
 0.6.0
 * First official Github release (Warning: While the plugin is stable, we can't guarentee that Superdark covers everything it needs to cover yet. If you find something that isn't darkened properly, please make an issue on [github](https://github.com/klein-the-donkey/cp-admin-colors).)
-* Merged pull request Fix docs #1.
+* Merged pull request [Fix docs #1](https://github.com/klein-the-donkey/cp-admin-colors/pull/1).
 
 0.5.4
 * Testing and minor patching for ClassicPress v1.1.0.
