@@ -1,21 +1,32 @@
 # CP Admin Colors
+
 Tested up to: ClassicPress 1.1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-ClassicPress style admin color schemes for your ClassicPress site.
+User Profile Admin color schemes based on the ClassicPress brand
 
 ## Description
 
-5 new color schemes for your admin.
+Add 5 new style admin color schemes for your ClassicPress website user profiles.
 
 Color schemes in this pack are based on the ClassicPress Brand Guidelines on https://www.classicpress.net/brand-guidelines/ and realized by Klein.
 
 This plugin is a personal project by Klein with the help of the ClassicPress community. It is NOT an official ClassicPress product.
 
+## Screenshots 
+
+All screenshots in the screenshot folder by Klein.
+![Sample Purple admin theme.](screenshot/cp-purple.png "Sample Purple admin theme.")
+![Sample contrast admin theme.](screenshot/cp-contrast.png "Sample contrast admin theme.")
+
 ## Settings
 
-CP Admin Colors will change the default admin color scheme for new users to ClassicPress Default; to turn this off go to Settings > Writing and uncheck the checkbox.
+CP Admin Colors will change the default admin color scheme for new users to default ClassicPress scheme. 
+
+![Sample default admin theme.](screenshot/cp-default.png "Sample default admin theme.")
+
+To turn this off go to Settings > Writing and uncheck the checkbox.
 
 ## Changelog 
 
@@ -68,9 +79,7 @@ CP Admin Colors will change the default admin color scheme for new users to Clas
 * Minor bugfix.
 
 0.2.0
-
 * Added a purple and more contrasting version as extra color schemes.
 
 0.1.0
-
 * Initial version: Forked from Admin Color Schemes.

@@ -1,8 +1,9 @@
 <?php
 /**
  * Plugin Name: CP Admin Colors
+ * Plugin URI: 
  * Plugin URI: https://github.com/klein-the-donkey/cp-admin-colors
- * Description: Admin color schemes based on the ClassicPress brand
+ * Description: User Profile Admin color schemes based on the ClassicPress brand
  * Version: 0.5.4
  * Author: Klein
  * Author URI: https://forums.classicpress.net/u/klein
