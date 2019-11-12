@@ -19,12 +19,13 @@ This plugin is a personal project by Klein with the help of the ClassicPress com
 All screenshots in the screenshot folder by Klein.
 ![Sample Purple admin theme.](screenshot/cp-purple.png "Sample Purple admin theme.")
 ![Sample contrast admin theme.](screenshot/cp-contrast.png "Sample contrast admin theme.")
+![Sample default admin theme.](screenshot/cp-default.png "Sample default admin theme.")
 
 ## Settings
 
 CP Admin Colors will change the default admin color scheme for new users to default ClassicPress scheme. 
 
-![Sample default admin theme.](screenshot/cp-default.png "Sample default admin theme.")
+![Preview admin options.](screenshot/admin-options.png "Preview admin options.")
 
 To turn this off go to Settings > Writing and uncheck the checkbox.
 
