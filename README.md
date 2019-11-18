@@ -25,11 +25,16 @@ All screenshots in the screenshot folder by Klein.
 
 CP Admin Colors will change the default admin color scheme for new users to default ClassicPress scheme. 
 
-![Preview admin options.](screenshot/admin-options.png "Preview admin options.")
-
 To turn this off go to Settings > Writing and uncheck the checkbox.
 
+To manually set colors, go to a user's profile and select the color scheme you want from the list.
+
+![Preview admin options.](screenshot/admin-options.png "Preview admin options.")
+
 ## Changelog 
+
+0.6.1
+* Readme correction
 
 0.6.0
 * First official Github release (Warning: While the plugin is stable, it can't be guaranteed that Superdark covers everything it needs to cover yet. If you find something that isn't darkened properly, please make an issue on [github](https://github.com/klein-the-donkey/cp-admin-colors).)
