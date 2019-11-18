@@ -4,7 +4,7 @@
  * Plugin URI: 
  * Plugin URI: https://github.com/klein-the-donkey/cp-admin-colors
  * Description: User Profile Admin color schemes based on the ClassicPress brand
- * Version: 0.6.0
+ * Version: 0.6.1
  * Author: Klein
  * Author URI: https://forums.classicpress.net/u/klein
  * Text Domain: admin_schemes
