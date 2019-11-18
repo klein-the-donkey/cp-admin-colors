@@ -35,6 +35,7 @@ To manually set colors, go to a user's profile and select the color scheme you w
 
 0.6.1
 * Readme correction
+* Corrected package.json
 
 0.6.0
 * First official Github release (Warning: While the plugin is stable, it can't be guaranteed that Superdark covers everything it needs to cover yet. If you find something that isn't darkened properly, please make an issue on [github](https://github.com/klein-the-donkey/cp-admin-colors).)
