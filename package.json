@@ -1,8 +1,8 @@
 {
-	"name"           : "admin-color-schemes",
-	"slug"           : "admin-color-schemes",
+	"name"           : "cp-admin-colors",
+	"slug"           : "cp-admin-colors",
 	"description"    : "User Profile Admin color schemes based on the ClassicPress brand",
-	"version"        : "0.1.0",
+	"version"        : "0.6.1",
 	"devDependencies": {
 		"grunt"               : "~0.4.1",
 		"grunt-contrib-watch" : "~0.6.1",
